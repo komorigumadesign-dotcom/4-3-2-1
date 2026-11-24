@@ -1,0 +1,3 @@
+# Google service account keys (secrets)
+project-*.json
+service_account*.json
